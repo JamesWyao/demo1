@@ -68,7 +68,7 @@
         </div>
       </div>
       <div class="card-1 mt32 CardSvg6 height354">
-        <div class="card-content ml48 mt15 pt-64 pl-15">
+        <div class="card-content ml48 mt15 pt-64 pl-15 pt-64-660">
           <p class="card-title ">Seamless collaboration with more strategy</p>
           <p class="card-des">"Seamless collaboration with social media platforms to amplify Thorp's reach and
             influence, enabling real-time engagement, sharing of insights, and fostering a global community of crypto

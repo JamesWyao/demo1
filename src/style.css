@@ -721,6 +721,7 @@ body {
     width: 100%;
     font-size: 48px;
     font-weight: 800;
+
     color: #fff;
     margin-bottom: 48px;
   }
@@ -862,7 +863,7 @@ body {
 
   .join {
     margin-left: auto;
-    margin-right: 64px;
+    margin-right: 24px;
   }
 }
 @media screen and (max-width: 660px) {
@@ -1046,7 +1047,9 @@ body {
   .pt-64 {
     padding-top: 44px;
   }
-
+  .pt-64-660 {
+    padding-top: 0px;
+  }
   .pt-74 {
     padding-top: 34px;
   }
@@ -1068,7 +1071,7 @@ body {
   }
 
   .card-1 .card-content {
-    width: 65%;
+    width: 70%;
     margin: 0;
     margin-top: 15px;
   }
